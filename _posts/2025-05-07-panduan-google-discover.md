@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Panduan Lengkap Masuk Google Discover"
 date:   2025-05-07 09:00:00 +0700
 categories: [google, discover, seo]
