@@ -4,10 +4,10 @@ title:  "Panduan Lengkap Masuk Google Discover"
 date:   2025-05-07 09:00:00 +0700
 categories: [google, discover, seo]
 image: /assets/images/tutorial-boongan.png
+<img src="https://adamdmonkey.github.io/automatic-info/assets/images/tutorial-boongan.png" alt="Panduan Google Discover" style="display: block; margin: 0 auto; width: 600px;" />
 ---
 
 Google Discover bisa mendatangkan traffic besar jika Anda tahu caranya. Artikel ini membahas langkah-langkah penting agar blog Anda layak tampil di Discover, mulai dari struktur konten, gambar, sampai kecepatan halaman.
-<img src="https://adamdmonkey.github.io/automatic-info/assets/images/tutorial-boongan.png" alt="Panduan Google Discover" style="display: block; margin: 0 auto; width: 600px;" />
 ## Apa Itu Google Discover?
 
 Google Discover adalah fitur rekomendasi berita/konten di aplikasi Google dan Chrome. Konten yang muncul di sana berdasarkan minat pengguna.
