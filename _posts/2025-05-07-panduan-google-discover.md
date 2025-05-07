@@ -3,7 +3,7 @@ layout: post
 title:  "Panduan Lengkap Masuk Google Discover"
 date:   2025-05-07 09:00:00 +0700
 categories: [google, discover, seo]
-image: /assets/images/google-discover-panduan.jpg
+image: /assets/images/tutorial-boongan.png
 ---
 
 Google Discover bisa mendatangkan traffic besar jika Anda tahu caranya. Artikel ini membahas langkah-langkah penting agar blog Anda layak tampil di Discover, mulai dari struktur konten, gambar, sampai kecepatan halaman.
