@@ -3,8 +3,11 @@
   <head>
     <meta charset="UTF-8">
 <link rel="alternate" type="application/rss+xml" title="Automatic Info Feed" href="https://adamdmonkey.github.io/automatic-info/feed.xml" />
-
+<meta name="robots" content="max-image-preview:large">
 {% seo %}
+    {% if page.image %}
+  <meta property="og:image" content="{{ page.image | relative_url | absolute_url }}">
+{% endif %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
