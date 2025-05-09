@@ -1,16 +1,49 @@
----
----
-
 @import 'jekyll-theme-cayman';
 
-/* Custom color overrides */
-$header-bg-color: #d32f2f;     /* merah */
-$header-text-color: #ffeb3b;  /* kuning */
-$section-headings-color: #000000; /* hitam */
-$body-text-color: #ffffff;    /* hitam */
-$link-color: #ffeb3b;         /* kuning */
+/* Custom override warna untuk tema Cayman */
 
-/* Terapkan */
-html {
-  background-color: #fff;
+/* Header */
+header {
+  background-color: #d32f2f !important; /* merah */
+  color: #ffeb3b !important;            /* kuning */
+}
+
+/* Judul dan subjudul */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;            /* hitam */
+}
+
+/* Teks isi */
+body, p {
+  color: #000000 !important;            /* hitam */
+  background-color: #ffffff;            /* putih sebagai latar */
+}
+
+/* Link */
+a {
+  color: #ffeb3b !important;            /* kuning */
+}
+
+/* Tombol */
+.btn {
+  background-color: #d32f2f !important; /* merah */
+  color: #ffffff !important;            /* putih */
+  border: none;
+}
+
+.btn:hover {
+  background-color: #b71c1c !important; /* merah tua */
+  color: #ffeb3b !important;            /* kuning */
+}
+
+/* Navigasi jika ada */
+nav {
+  background-color: #d32f2f !important;
+  color: #ffeb3b !important;
+}
+
+/* Footer jika ada */
+footer {
+  background-color: #000000 !important;
+  color: #ffeb3b !important;
 }
