@@ -2,3 +2,15 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+/* Custom color overrides */
+$header-bg-color: #d32f2f;     /* merah */
+$header-text-color: #ffeb3b;  /* kuning */
+$section-headings-color: #000000; /* hitam */
+$body-text-color: #ffffff;    /* hitam */
+$link-color: #ffeb3b;         /* kuning */
+
+/* Terapkan */
+html {
+  background-color: #fff;
+}
