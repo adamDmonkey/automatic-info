@@ -21,22 +21,3 @@ $code-text-color: #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
-
-@import 'jekyll-theme-cayman';
-
-header {
-  background-color: #d32f2f !important; /* merah */
-  color: #ffeb3b !important;            /* kuning */
-}
-
-h1, h2, h3, h4 {
-  color: #000000 !important;           /* hitam */
-}
-
-body {
-  color: #000000;
-}
-
-a {
-  color: #ffeb3b;
-}
