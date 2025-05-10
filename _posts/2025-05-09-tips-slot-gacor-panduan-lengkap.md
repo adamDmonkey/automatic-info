@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Terbongkar! Strategi Rahasia Main Slot Online Gacor yang Bikin Pemula Auto Cuan Setiap Hari"
 date: 2025-05-09 10:00:00 +0000
 categories: [slot, online, tips]
